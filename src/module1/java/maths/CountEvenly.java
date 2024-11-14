@@ -1,10 +1,12 @@
-package m1.striver.java.maths;
+package module1.java.maths;
 //{ Driver Code Starts
 //Initial Template for Java
 
 
 import java.io.*;
 import java.util.*;
+
+import module1.java.collections.own_cf.MyArrayList;
 
 class CountEvenly
 {
@@ -28,6 +30,8 @@ class CountEvenly
 
 class Solution7{
     static int evenlyDivides(int N){
+    	
+    	
         // code here
         int count=0;
         int temp=N;

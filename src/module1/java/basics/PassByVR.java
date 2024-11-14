@@ -1,4 +1,4 @@
-package m1.striver.java.basics;
+package module1.java.basics;
 //{ Driver Code Starts
 // Initial Template for Java
 

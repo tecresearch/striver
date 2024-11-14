@@ -1,4 +1,4 @@
-package m1.striver.java.maths;
+package module1.java.maths;
 //{ Driver Code Starts
 import java.io.*;
 import java.util.*;

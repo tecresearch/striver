@@ -1,4 +1,4 @@
-package m1.striver.java.maths;
+package module1.java.maths;
 public class Palindrome {
     public static boolean isPalindrome(int x) {
         int temp=x;

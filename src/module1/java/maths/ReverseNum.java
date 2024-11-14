@@ -1,4 +1,4 @@
-package m1.striver.java.maths;
+package module1.java.maths;
 public class ReverseNum {
     public static int reverse(int x) {
         long rev=0;
