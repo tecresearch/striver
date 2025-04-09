@@ -1,13 +1,13 @@
 ## Notes------>
 
-// Core Java Interview Questions and Answers
+ Core Java Interview Questions and Answers
 
-// Q1: What are the main principles of OOP (Object-Oriented Programming)?
-// A1: The main principles of OOP are:
-// 1. Encapsulation - Wrapping of data (fields) and methods in a single unit (class).
-// 2. Inheritance - Mechanism for a class to inherit properties and behavior from another class.
-// 3. Polymorphism - Ability to take many forms, such as method overloading and overriding.
-// 4. Abstraction - Hiding implementation details and exposing only the essential features.
+ Q1: What are the main principles of OOP (Object-Oriented Programming)?
+ A1: The main principles of OOP are:
+ 1. Encapsulation - Wrapping of data (fields) and methods in a single unit (class).
+ 2. Inheritance - Mechanism for a class to inherit properties and behavior from another class.
+ 3. Polymorphism - Ability to take many forms, such as method overloading and overriding.
+ 4. Abstraction - Hiding implementation details and exposing only the essential features.
 
 // Q2: What is the difference between JDK, JRE, and JVM?
 // A2:
