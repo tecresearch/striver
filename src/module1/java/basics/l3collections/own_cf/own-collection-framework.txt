@@ -88,7 +88,7 @@ Maven/Gradle setup?
 
 Let me know how deep you'd like to go 👨‍💻
 
-
+ 
 org.collectionframework/
 ├── util/                    ← Core collections
 ├── util.function/           ← Functional interfaces
